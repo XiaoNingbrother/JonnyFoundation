@@ -1,0 +1,6 @@
+framework module JonnyFoundation {
+  umbrella header "JonnyFoundation.h"
+
+  export *
+  module * { export * }
+}
